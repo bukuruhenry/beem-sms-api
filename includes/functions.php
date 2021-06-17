@@ -6,7 +6,7 @@
     
 function sendMessage($message,$recepient_id,$contact) {
     
-    //You can get Beem apiKey and secretKey after completing a free registration on Beem's website (https://login.beem.africa/#!/register)
+    //You can get Beem apiKey and secretKey after completing a free registration on Beem's website visit https://docs.beem.africa/ for more info
 
 
     $api_key='#';
